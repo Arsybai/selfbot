@@ -1,2 +1,2 @@
 # selfbot
-- Tutorial is kaming suun
+- Tutorial is [HERE](https://youtu.be/4SNGf-_ymmM)
